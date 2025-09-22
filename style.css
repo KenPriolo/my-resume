@@ -1,0 +1,30 @@
+.my-image{
+  height: 60px;
+  float: right;
+  position: relative;
+}
+
+p{
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2, h3{
+  display: inline-block;
+  padding: 0px;
+  margin: 0px;
+}
+
+h2.education, p.school {
+  display: block;
+} 
+
+ul {
+  padding-left: 40px;
+  margin: 0px;
+  list-style-type: disc;
+}
+
+h3.experience {
+  display: block;
+}
